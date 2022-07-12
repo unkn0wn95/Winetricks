@@ -1,0 +1,2 @@
+# Winetricks
+Information about winetricks
